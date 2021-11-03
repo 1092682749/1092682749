@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1092682749)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-🧐 尝试思考社会运行的底层逻辑
+🧐 尝试思考社会运行的底层逻辑。
 <!--
 **1092682749/1092682749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
