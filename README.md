@@ -3,7 +3,7 @@
 <br/>
 🧐 尝试思考社会运行的底层逻辑。
 <!--
-**1092682749/1092682749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
